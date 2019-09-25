@@ -9,7 +9,7 @@
 
 
 ### Further Test Run
-**Bold Run - this one IS SLIGHTLY BORING - but how I adjust the font size via VI**
+**Bold Run - this one IS SLIGHTLY BORING - but how do I adjust the font size via VI**
 
 ~~Strikethrough attempt - what will it look like - is it cool - is it boring - will I remember how to do it oncce i finish today - I will remember - I will study - I will retain this information~~
 
