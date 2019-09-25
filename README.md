@@ -14,8 +14,8 @@
 ~~Strikethrough attempt - what will it look like - is it cool - is it boring - will I remember how to do it oncce i finish today - I will remember - I will study - I will retain this information~~
 
 - [X] Take notes
-- [ ] Review notes
-- [ ] Correct notes - anything qritten incorrectly will be written properly
-- [ ] Test your notes - do it without google - try from memory **THIS IS YOUR FIRST TEST** 
+- [x] Review notes
+- [x] Correct notes - anything qritten incorrectly will be written properly
+- [x] Test your notes - do it without google - try from memory **THIS IS YOUR FIRST TEST** 
 - [ ] Confirm with teach and TA if note/steps are correct
 
